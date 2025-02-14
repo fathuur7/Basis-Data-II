@@ -1,0 +1,35 @@
+Jawab pertanyaan berikut
+- Mengapa desain database diperlukan?
+- Kesalahan umum dalam desain database dan
+dampaknya.
+- Konsep normalisasi (1NF, 2NF, 3NF, BCNF).
+Tugas:
+- Lakukan analisis dan normalisasi dari desain
+database rs, sesuai studi kasus di kelas.
+Studi kasus : Sistem Rumah Sakit
+1 Pemangku Kepentingan
+- Pasien: Mendaftar, menjadwalkan janji temu,
+melihat rekam medis.
+- Dokter: Melihat riwayat pasien, memberikan
+diagnosis dan resep obat.
+- Perawat: Membantu dokter dan mengelola
+kebutuhan medis pasien.
+- Bagian Administrasi: Mengelola data pasien,
+pembayaran, dan asuransi.
+- Apoteker: Mengelola stok obat dan pengeluaran
+resep.
+- Manajemen Rumah Sakit: Mengawasi keseluruhan
+operasi dan sumber daya.
+
+
+2 Fitur Utama
+1. Manajemen Pasien: Pendaftaran, riwayat medis,
+dan asuransi.
+2. Jadwal Dokter: Penjadwalan janji temu pasien
+dan shift kerja dokter.
+3. Rekam Medis Elektronik: Catatan konsultasi,
+diagnosis, dan resep.
+4. Administrasi Keuangan: Tagihan pasien,
+pembayaran asuransi, dan laporan keuangan.
+5. Manajemen Farmasi: Stok obat, pemesanan, dan
+distribusi resep.
